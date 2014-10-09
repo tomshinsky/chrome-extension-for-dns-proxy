@@ -10,7 +10,7 @@
 //}
 
 // run script when a request is about to occur
-chrome.webRequest.onBeforeRequest.addListener(function (details) {
+//chrome.webRequest.onBeforeRequest.addListener(function (details) {
 	// get the parts of the url (hostname, port) by creating an 'a' element
 	//var parser = document.createElement('a');
 	//parser.href = details.url;
@@ -65,4 +65,4 @@ chrome.webRequest.onBeforeRequest.addListener(function (details) {
 	
 	//console.log('IP '+bitip+' for '+bithost+' found, config is changed: '+JSON.stringify(config));
 	
-}, { urls: ["<all_urls>"] }, ["blocking"]);
+	//}, { urls: ["<all_urls>"] }, ["blocking"]);
