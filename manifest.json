@@ -6,10 +6,10 @@
 		"128": "icon-128.png"
 	},
 	"manifest_version": 2,
-	"name": "dotbit.me .bit web surfer",
-	"short_name": ".bit web surfer",
+	"name": "Portaller",
+	"short_name": "Portaller",
 	"permissions": [ "proxy", "webRequest", "webRequestBlocking", "*://*/*" ],
 	"version": "0.15",
-	"description" : "An extension that enables surfing .bit sites, a peer-to-peer domain system based on Namecoin.",
-	"homepage_url": "https://dotbit.me/proxy/"
+	"description" : "Portaller — is DNS and proxy server. Since it is located in NY you can use geo-locked websites in countries outside U.S.",
+	"homepage_url": "http://portaller.com/"
 }
