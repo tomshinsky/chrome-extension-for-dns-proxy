@@ -9,7 +9,7 @@
 	"name": "Portaller",
 	"short_name": "Portaller",
 	"permissions": [ "proxy", "webRequest", "webRequestBlocking", "*://*/*" ],
-	"version": "0.16",
+	"version": "0.2",
 	"description" : "Portaller — is DNS and proxy server. Since it is located in NY you can use geo-locked websites in countries outside U.S.",
 	"homepage_url": "http://portaller.com/"
 }
